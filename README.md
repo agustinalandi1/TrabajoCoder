@@ -1,6 +1,8 @@
-# Entrega1Landi
+# Trabajo Final para el curso de programacion en Python de Coderhouse. 
 
-Mi nombre es Agustina Landi y me toco hacer el trabajo de forma individual.
+Fecha Junio 2022, trabajo en forma individual. <br>
+
+Informe: <br>
 
 Mi proyecto se llama Tienda. Tiene 3 aplicaciones: Ropa, Accesorios y Accounts.
 
